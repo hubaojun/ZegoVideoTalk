@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="vt_bg_color_round_btn">#4c4c4c4c</color>
+    <color name="vt_bg_color_round_btn_disable">#e50d70ff</color>
+
+    <color name="vt_text_disable">#bdbdbd</color>
+    <color name="vt_text_white">#ffffff</color>
+</resources>
